@@ -115,3 +115,7 @@ interface FormFieldSchema {
 ## 📄 License
 
 MIT
+
+---
+
+中文: [README.md](./README.md)
